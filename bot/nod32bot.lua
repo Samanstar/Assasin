@@ -214,7 +214,6 @@ function create_config( )
     "anti_spam",
     "anti_chat",
     "banhammer",
-    "boobs",
     "bot_manager",
     "botnumber",
     "broadcast",
@@ -240,7 +239,6 @@ function create_config( )
     "spam",
     "stats",
     "support",
-    "filterworld",
     "server_manager",
     "time",
     "version"
